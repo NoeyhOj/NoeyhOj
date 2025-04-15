@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=#3776AB)
-
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White)
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dryzero0" width="600" height="300"/></a>
 
