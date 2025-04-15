@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699.svg?&logo=Sass&logoColor=fff"/>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?&logo=androidstudio&logoColor=white">
+</div>
+
 
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dryzero0" width="600" height="300"/></a>
