@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dryzero0" width="600" height="300"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryzero0)](https://solved.ac/dryzero0)
