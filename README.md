@@ -8,22 +8,9 @@ I graduated from **Hankyung University** with a degree in computer engineering.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryzero0)](https://solved.ac/dryzero0)
 
-<!--
-**NoeyhOj/NoeyhOj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
 ## 📝 Blog
 <div>
-  <img src="https://img.shields.io/badge/Velog-20C997.svg&logo=velog&logoColor=white"/>
-  
-
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">  
 </div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=noeyh_0j)](https://velog.io/@noeyh_0j/posts)
@@ -74,13 +61,17 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me: ...
 <div>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+  <a href="https://github.com/NoeyhOj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="matilto:hey.dryzero0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/nori_johyeon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.discord.com/users/446643439212429314" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>
-
-## ⚡ Fun fact: ...
-
 
