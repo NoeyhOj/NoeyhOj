@@ -10,7 +10,9 @@ I graduated from **Hankyung University** with a degree in **computer engineering
 
 ## 📝 Blog
 <div>
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">  
+  <a href="https://velog.io/@noeyh_0j" target="_blank">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">  
+  </a>
 </div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=noeyh_0j)](https://velog.io/@noeyh_0j/posts)
@@ -37,6 +39,7 @@ I graduated from **Hankyung University** with a degree in **computer engineering
 <div>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
 ## 💽 Database
