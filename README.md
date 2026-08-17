@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
   <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Welcome%20To%20My%20GitHub&fontSize=70" alt="header">
   
   <h1>🙋‍♂️ 안녕하세요!</h1>
@@ -6,15 +6,22 @@
   Hello! My name is **Kim Jo Hyeon.**
   
   I graduated from **Hankyung University** with a degree in **computer engineering**.
+<div align="start">
   
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dryzero0)](https://solved.ac/dryzero0)
+  <h2>🎤 발표</h2>
   
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryzero0)](https://solved.ac/dryzero0)
-  <img src="http://mazandi.herokuapp.com/api?handle=dryzero0&theme=warm"/>
+  **<h3>2026</h3>**
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=NoeyhOj)](https://git.io/streak-stats)
+  **우아한 테크코스 테코톡 |**<a href="https://canva.link/5bz3pmprg8y6cu2"> 단위 테스트로 나누는 것이 반드시 좋은 것일까?</a>
+
+  **우아한 테크코스 테코톡 영상 |**<a href="https://youtu.be/Aq4Ga7pfDJo?si=RT0Yh9QOrxI35ubv"> 단위 테스트로 나누는 것이 반드시 좋은 것일까?</a>
+
+  **우아한 테크코스 방과후 |**<a href="https://canva.link/l4ilcz5sbu1gi6g"> 불변 객체의 가치는 무엇일까?</a>
+
+  **우아한 테크코스 방과후 |**<a href="https://canva.link/51ar1vyx6gmg4lw"> 코틀린 코루틴 환경에서의 동시성 문제와 안전한 상태관리</a>
+</div>
+  
+
   
   
   <h2>📝 Blog</h2>
