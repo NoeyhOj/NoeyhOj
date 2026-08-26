@@ -1,11 +1,11 @@
 <div align="start">
   <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Welcome%20To%20My%20GitHub&fontSize=70" alt="header">
   
-  <h1>🙋‍♂️ 안녕하세요!</h1>
+  <h1>🙋‍♂️ 개발자 김조현 입니다!</h1>
   
-  Hello! My name is **Kim Jo Hyeon.**
+  코드를 볼 때 항상 **"왜?"** 라는 질문을 던지며 근본적인 동작 원리를 파고듭니다. 
   
-  I graduated from **Hankyung University** with a degree in **computer engineering**.
+  단순히 동작하는 코드를 넘어 **동료가 보기 좋은 가독성**, **유지보수하기 좋은 아키텍처**, 그리고 **팀 목표에 최적화된 실용적인 의사결정**을 지향합니다.
 <div align="start">
   
   <h2>🎤 발표</h2>
@@ -31,63 +31,14 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=noeyh_0j)](https://velog.io/@noeyh_0j/posts)
   
-  <h2>💻 OS</h2>
-  <div>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  </div>
-  
   <h2>📚 Skills</h2>
   <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   </div>
   
-  <h2>⚙️ Frameworks</h2>
-  <div>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-  </div>
-  
-  <h2>💽 Database</h2>
-  <div>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </div>
-  
-  <h2>🎨 Design & Cloud</h2>
-  <div>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white">
-  </div>
-  
-  <h2>🚉 IDE</h2>
-  <div>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  </div>
-  
-  <h2>🌱 I’m currently learning</h2> 
-  <div>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
-  
-  </div>
-  
-  <h2> 📫 How to reach me: Click Button!</h2>
+  <h2>✉️ Contacts</h2>
   <div>
     <a href="https://github.com/NoeyhOj" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
